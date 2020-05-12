@@ -1,0 +1,7 @@
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\obj\Debug\SplitTheBill_2.csprojAssemblyReference.cache
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\obj\Debug\SplitTheBill_2.csproj.CoreCompileInputs.cache
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\bin\Debug\SplitTheBill_2.exe.config
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\bin\Debug\SplitTheBill_2.exe
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\bin\Debug\SplitTheBill_2.pdb
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\obj\Debug\SplitTheBill_2.exe
+C:\Users\babel\Documents\IBT College\Module_5\SplitTheBill_2\SplitTheBill_2\obj\Debug\SplitTheBill_2.pdb
